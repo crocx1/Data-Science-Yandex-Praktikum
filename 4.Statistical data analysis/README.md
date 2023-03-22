@@ -1,5 +1,5 @@
-# Data_preprocessing
+# Statistical data analysis
+
 Course | Goal | Libraries
 ------------- |---------------- | ---------------- 
-Done | Investigation of the reliability of borrowers  | <ul><li>pandas</li> <ul><li>matplotlib</li>
- <ul><li>IPython.display</li>
+Done | examine the general information of the database  | <ul><li>pandas</li>
