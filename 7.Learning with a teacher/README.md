@@ -1,0 +1,4 @@
+# Learning with a teacher
+Course | Goal | Libraries
+------------- |---------------- | ---------------- 
+Done | a model with an extremely high value of F1-measures greater than 0.59  |<ul><li>import pandas as pd</li><ul><li>import numpy as np</li><ul><li>from sklearn.model_selection import train_test_split</li><ul><li>from sklearn.utils import shuffle</li><ul><li>from sklearn.tree import DecisionTreeClassifier</li><ul><li>from sklearn.preprocessing import StandardScaler</li><ul><li>from sklearn.metrics import f1_score</li><ul><li>from sklearn.metrics import recall_score</li><ul><li>from sklearn.metrics import precision_score</li><ul><li>from sklearn.linear_model import LogisticRegression</li><ul><li>from sklearn.metrics import roc_auc_score</li><ul><li>from sklearn.ensemble import RandomForestClassifier</li>
