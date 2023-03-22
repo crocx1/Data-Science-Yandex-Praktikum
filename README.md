@@ -1,7 +1,7 @@
 # Data-Science-Yandex-Praktikum
 Yandex Praktikum course. Main goal - learn basic Python and Sql for data analyse
 # Исследование рынка заёмщиков банка
-Статус проекта | Цель | Вывод | Используемые библиотеки
-------------- |---------------- | ---------------- | -----------------------
-Завершён | Выяснить  влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок | <ul><li>Люди, у которых нет детей более ответственны к своим долговым обязательствам, чем те, у которых они есть.</li><li>Люди, которые не имеют законных отношений более склонны к задолжности.</li>  | <ul><li>pandas</li><li>pymystem3</li>
+Course | Goal | Libraries
+------------- |---------------- | ---------------- 
+Done | Get skill to create models for: Forecast, Photo Recognition, Dataframe analyse |   | <ul><li>pandas</li><li>pymystem3</li>
 
